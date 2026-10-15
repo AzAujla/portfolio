@@ -508,7 +508,7 @@
 
     "wrappy": ["wrappy@1.0.2", "", {}, "sha512-l4Sp/DRseor9wL6EvV2+TuQn63dMkPjZ/sp9XkghTEbV9KlPS1xUsZ3u7/IQO4wxtcFB4bgpQPRcR3QCvezPcQ=="],
 
-    "yahoo-finance2": ["yahoo-finance2@4.0.3", "", { "dependencies": { "@deno/shim-deno": "~0.18.0", "@modelcontextprotocol/sdk": "npm:@modelcontextprotocol/sdk@^1.32.0", "fetch-mock-cache": "npm:fetch-mock-cache@^3.1.0", "json-schema": "^0.4.0", "tough-cookie": "npm:tough-cookie@^6.0.2", "tough-cookie-file-store": "npm:tough-cookie-file-store@^3.3.0", "zod": "npm:zod@^4.6.5" }, "bin": { "yahoo-finance": "esm/bin/yahoo-finance.js", "yahoo-finance2": "esm/bin/yahoo-finance.js", "yahoo-finance-mcp": "esm/bin/yahoo-finance-mcp.js" } }, "sha512-2Bq74N+2obA+37wvA9KCsRiaShNm92kMdPnIKwn3ofnkvKzAMMJ1ZZUrEHst7lxsQnCSzaEs5mY76ATkIb/NMg=="],
+    "yahoo-finance2": ["yahoo-finance2@4.0.4", "", { "dependencies": { "@deno/shim-deno": "~0.18.0", "@modelcontextprotocol/sdk": "npm:@modelcontextprotocol/sdk@^1.32.0", "fetch-mock-cache": "npm:fetch-mock-cache@^3.1.0", "json-schema": "^0.4.0", "tough-cookie": "npm:tough-cookie@^6.0.2", "tough-cookie-file-store": "npm:tough-cookie-file-store@^3.3.0", "zod": "npm:zod@^4.6.5" }, "bin": { "yahoo-finance": "esm/bin/yahoo-finance.js", "yahoo-finance2": "esm/bin/yahoo-finance.js", "yahoo-finance-mcp": "esm/bin/yahoo-finance-mcp.js" } }, "sha512-RqQgbziZFTShcuKT6pE7POzW867iqigkUfpLi2TLdhlQWHvHp+0K9EDmQhIJnpRRFHeeRNALVKSVqO6tK1xPTQ=="],
 
     "yallist": ["yallist@5.0.0", "", {}, "sha512-YgvUTfwqyc7UXVMrB+SImsVYSmTS8X/tSrtdNZMImM+n7+QTriRXyXim0mBrTXNeqzVF0KWGgHPeiyViFFrNDw=="],
 
